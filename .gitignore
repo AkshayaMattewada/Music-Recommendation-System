@@ -7,3 +7,5 @@ __pycache__/
 venv/
 .cache/
 .ipynb_checkpoints/
+spotify_millsongdata.csv
+*.pkl
